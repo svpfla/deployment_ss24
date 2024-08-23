@@ -1,3 +1,4 @@
 [submodule "robotino_platform/robotino_node"]
 	path = robotino_platform/robotino_node
 	url = https://github.com/svpfla/robotino_node
+	branch = main
